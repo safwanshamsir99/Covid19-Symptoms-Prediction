@@ -12,7 +12,7 @@ Trained more than 5000 data to categorize either the patient is positive in the 
 
 ![covid_19](static/covid.jpg)
 
-# Predictive Classification Model by Using Machine Learning Model Random Forest for Breast Cancer Analysis.
+# Predictive Classification Model by Using Machine Learning Model Random Forest for Covid-19 Symptoms Analysis.
  Using machine learning model to train over 5000 Covid-19 Symptoms Analysis and Prediction dataset to categorize either the person is positive in Covid-19 infection or not.
 
 ## Description
