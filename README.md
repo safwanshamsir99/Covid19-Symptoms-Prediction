@@ -39,6 +39,6 @@ Trained more than 5000 data to categorize either the patient is positive in the 
 ![streamlit_covid](static/streamlit_covid.PNG)
 
 ## Credits:
-Shout out to HEMANTH HARIKRISHNAN from Kaggle for the Symptoms and COVID Presence Dataset. Check out the dataset by clicking the link below. :smile:
+Shout out to Hemanth Harikrishnan from Kaggle for the Symptoms and COVID Presence Dataset. Check out the dataset by clicking the link below. :smile:
 ### Dataset link
 [Symptoms and COVID Presence Dataset](https://www.kaggle.com/datasets/hemanthhari/symptoms-and-covid-presence)
