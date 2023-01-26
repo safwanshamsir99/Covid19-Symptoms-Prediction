@@ -10,7 +10,7 @@ import os
 import numpy as np
 import pickle
 
-MODEL_PATH = os.path.join(os.getcwd(),'best_model_covid.pkl')
+MODEL_PATH = 'https://github.com/safwanshamsir99/Covid19-Symptoms-Prediction/blob/main/best_model_covid.pkl'
 
 with open(MODEL_PATH,'rb') as file:
     model = pickle.load(file)
