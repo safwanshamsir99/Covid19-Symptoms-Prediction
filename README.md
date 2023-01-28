@@ -35,7 +35,9 @@ Trained more than 5000 data to categorize either the patient is positive in the 
 ## Discussion
 1. The Random Forest Classifier model achieved 96.9% accuracy during model testing. 
 2. Precision score are 98% and 91%, recall score are 98% and 93% and f1 score report are 98% and 97% for output 'Positive' and 'Negative' respectively. 
-3. The machine learning model is deployed by using the streamlit apps.
+3. The machine learning model is deployed by using the streamlit apps. Please access thru this link: 
+[Prediction of Covid-19 Based on Symptoms](https://safwanshamsir99-covid19-symptoms-prediction-covid-app-j1q4wz.streamlit.app/)
+
 ![streamlit_covid](static/streamlit_covid.PNG)
 
 ## Credits:
