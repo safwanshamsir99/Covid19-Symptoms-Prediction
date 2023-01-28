@@ -80,10 +80,10 @@ def cramers_corrected_stat(confusion_matrix):
     return np.sqrt(phi2corr / min( (kcorr-1), (rcorr-1)))
 
 #%% STATIC
-CSV_URL = os.path.join(os.getcwd(),'covid_symptom.csv')
+#CSV_URL = os.path.join(os.getcwd(),'covid_symptom.csv')
 
 #%% DATA LOADING
-df = pd.read_csv(CSV_URL)
+df = pd.read_csv('covid_symptom.csv')
 
 #%% DATA INSPECTION
 df.info() # all column is object datatype
