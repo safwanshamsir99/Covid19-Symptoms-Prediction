@@ -6,15 +6,15 @@ Created on Sun Dec 25 19:20:54 2022
 """
 
 import streamlit as st
-import os
+#import os
 import numpy as np
 import pickle
 from prediction import predict
 
-MODEL_PATH = os.path.join(os.getcwd(),'best_model_covid.pkl')
+# MODEL_PATH = os.path.join(os.getcwd(),'best_model_covid.pkl')
 
-with open(MODEL_PATH,'rb') as file:
-    model = pickle.load(file)
+#with open(MODEL_PATH,'rb') as file:
+ #   model = pickle.load(file)
 
 
 #%% STREAMLIT
